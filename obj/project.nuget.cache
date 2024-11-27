@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CPGjbApVEajL3hLORNY1M8mkVHmY/Outf5BGlUY4UVYyngmweD+6lvcpLbp+7mPuvU07kJ+h/E6EUR5VzD4KkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafae\\source\\repos\\ugma1\\ugma1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
